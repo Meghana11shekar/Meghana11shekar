@@ -1,4 +1,11 @@
-## Hi there 👋
+  ## Hi there 👋
+
+I'm Meghana,final year computer science and engineering undergrad.
+I turn concepts into AI-driven products using ML, Python, and modern web development.
+My main tech stack includes Python, React, Node.js, SQL, Tailwind CSS, and Machine Learning tools for building full-stack AI applications.
+
+Fun Facts:
+>Hobbies: Reading,Music,Art
 
 <!--
 **Meghana11shekar/Meghana11shekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
